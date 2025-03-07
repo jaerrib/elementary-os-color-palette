@@ -22,6 +22,11 @@ Columns: 3
 104 183  35     Lime 500
 155 219  77     Lime 300
 209 255 130     Lime 100
+  0 115 103     Mint 900
+ 14 154 131     Mint 700
+ 40 188 163     Mint 500
+ 67 214 181     Mint 300
+137 255 221     Mint 100
   0  46 153     Blueberry 900
  13  82 191     Blueberry 700
  54 137 230     Blueberry 500
@@ -32,6 +37,16 @@ Columns: 3
 122  54 177     Grape 500
 173 101 214     Grape 300
 226 159 252     Grape 100
+145  14  56     Bubblegum 900
+188  36  93     Bubblegum 700
+222  62 127     Bubblegum 500
+244 103 157     Bubblegum 300
+254 153 184     Bubblegum 100
+128  75   0     Latte 900
+182 128  46     Latte 700
+207 162  94     Latte 500
+231 197 145     Latte 300
+239 223 196     Latte 100
  61  33  27     Cocoa 900
  87  57  45     Cocoa 700
 113  83  68     Cocoa 500
